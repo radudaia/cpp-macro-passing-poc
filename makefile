@@ -1,5 +1,6 @@
 SCRIPT_AUTHOR=Radu Daia <radu.daia@pm.me>
 SCRIPT_VERSION=v1.0
+
 CC=g++
 CFLAGS=-Wall
 EXAMPLE_NAME=example
